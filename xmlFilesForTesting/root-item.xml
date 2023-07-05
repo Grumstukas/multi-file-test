@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <item>
+        <name>root-item.xml</name>
+        <category-id>20888</category-id>
+        <category-name><![CDATA[Apsaugos sistemos, valdikliai]]></category-name>
+        <title><![CDATA[Judesio daviklis Sonoff PIR3-RF]]></title>
+        <title-en><![CDATA[Motion sensor Sonoff PIR3-RF]]></title-en>
+        <long-description><![CDATA[<p>Judesio daviklis Sonoff PIR3-RF</p>]]></long-description>
+        <long-description-en><![CDATA[<p>Motion sensor&nbsp;Sonoff PIR3-RF&nbsp;</p>]]></long-description-en>
+        <properties>
+            <property>
+                <id><![CDATA[manufacturer]]></id>
+                <values>
+                    <value><![CDATA[SONOFF]]></value>
+                </values>
+            </property>
+        </properties>
+        <cn_code><![CDATA[85363010]]></cn_code>
+        <country_of_origin><![CDATA[China]]></country_of_origin>
+        <colours>
+            <colour>
+                <colour-title><![CDATA[]]></colour-title>
+                <images>
+                    <image><url>https://www.sonoff.ee/wp-content/uploads/2022/05/PIR3-RF.jpeg</url></image>
+                    <image><url>https://www.sonoff.ee/wp-content/uploads/2022/06/PIR3-RF（iMAll）01.png</url></image>
+                    <image><url>https://www.sonoff.ee/wp-content/uploads/2022/06/PIR3-RF（iMAll）05-1.png</url></image>
+                    <image><url>https://www.sonoff.ee/wp-content/uploads/2022/06/PIR3-RF（iMAll）07-1.png</url></image>
+                </images>
+                <modifications>
+                    <modification>
+                        <modification-title><![CDATA[]]></modification-title>
+                        <weight>0.0300</weight>
+                        <length>0.042</length>
+                        <height>0.038</height>
+                        <width>0.033</width>
+                        <attributes>
+                            <barcodes>
+                                <barcode><![CDATA[9218084682908]]></barcode>
+                            </barcodes>
+                            <supplier-code><![CDATA[9218084682908]]></supplier-code>
+                        </attributes>
+                        <prices>
+                            <base-price>
+                                <value>7.580</value>
+                                <currency>EUR</currency>
+                            </base-price>
+                        </prices>
+                        <quantity>27</quantity>
+                    </modification>
+                </modifications>
+            </colour>
+        </colours>
+    </item>
+    <item>
+        <name>root-item.xml</name>
+        <category-id>20888</category-id>
+        <category-name><![CDATA[Apsaugos sistemos, valdikliai]]></category-name>
+        <title><![CDATA[Judesio daviklis Sonoff PIR3-RF]]></title>
+        <title-en><![CDATA[Motion sensor Sonoff PIR3-RF]]></title-en>
+        <long-description><![CDATA[<p>Judesio daviklis Sonoff PIR3-RF</p>]]></long-description>
+        <long-description-en><![CDATA[<p>Motion sensor&nbsp;Sonoff PIR3-RF&nbsp;</p>]]></long-description-en>
+        <properties>
+            <property>
+                <id><![CDATA[manufacturer]]></id>
+                <values>
+                    <value><![CDATA[SONOFF]]></value>
+                </values>
+            </property>
+        </properties>
+        <cn_code><![CDATA[85363010]]></cn_code>
+        <country_of_origin><![CDATA[China]]></country_of_origin>
+        <colours>
+            <colour>
+                <colour-title><![CDATA[]]></colour-title>
+                <images>
+                    <image><url>https://www.sonoff.ee/wp-content/uploads/2022/05/PIR3-RF.jpeg</url></image>
+                    <image><url>https://www.sonoff.ee/wp-content/uploads/2022/06/PIR3-RF（iMAll）01.png</url></image>
+                    <image><url>https://www.sonoff.ee/wp-content/uploads/2022/06/PIR3-RF（iMAll）05-1.png</url></image>
+                    <image><url>https://www.sonoff.ee/wp-content/uploads/2022/06/PIR3-RF（iMAll）07-1.png</url></image>
+                </images>
+                <modifications>
+                    <modification>
+                        <modification-title><![CDATA[]]></modification-title>
+                        <weight>0.0300</weight>
+                        <length>0.042</length>
+                        <height>0.038</height>
+                        <width>0.033</width>
+                        <attributes>
+                            <barcodes>
+                                <barcode><![CDATA[6478855975937]]></barcode>
+                            </barcodes>
+                            <supplier-code><![CDATA[6478855975937]]></supplier-code>
+                        </attributes>
+                        <prices>
+                            <base-price>
+                                <value>7.580</value>
+                                <currency>EUR</currency>
+                            </base-price>
+                        </prices>
+                        <quantity>27</quantity>
+                    </modification>
+                </modifications>
+            </colour>
+        </colours>
+    </item>
+</root>
