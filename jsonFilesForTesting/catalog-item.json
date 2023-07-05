@@ -1,0 +1,176 @@
+{
+  "catalog": {
+    "item": [
+      {
+        "name": "catalog-item.xml",
+        "NAME_1": "catalog-item.xml",
+        "NAME_2": "catalog-item.xml",
+        "NAME_3": "catalog-item.xml",
+        "NAME_4": "catalog-item.xml",
+        "NAME_5": "catalog-item.xml",
+        "NAME_6": "catalog-item.xml",
+        "category-id": 20888,
+        "category-name": {
+          "__cdata": "Apsaugos sistemos, valdikliai"
+        },
+        "title": {
+          "__cdata": "Judesio daviklis Sonoff PIR3-RF"
+        },
+        "title-en": {
+          "__cdata": "Motion sensor Sonoff PIR3-RF"
+        },
+        "long-description": {
+          "__cdata": "<p>Judesio daviklis Sonoff PIR3-RF</p>"
+        },
+        "long-description-en": {
+          "__cdata": "<p>Motion sensor&nbsp;Sonoff PIR3-RF&nbsp;</p>"
+        },
+        "properties": {
+          "property": {
+            "id": {
+              "__cdata": "manufacturer"
+            },
+            "values": {
+              "value": {
+                "__cdata": "SONOFF"
+              }
+            }
+          }
+        },
+        "cn_code": {
+          "__cdata": "85363010"
+        },
+        "country_of_origin": {
+          "__cdata": "China"
+        },
+        "colours": {
+          "colour": {
+            "colour-title": {
+              "__cdata": ""
+            },
+            "images": {
+              "image": [
+                {
+                  "url": "https://www.sonoff.ee/wp-content/uploads/2022/05/PIR3-RF.jpeg"
+                }
+              ]
+            },
+            "modifications": {
+              "modification": {
+                "modification-title": {
+                  "__cdata": ""
+                },
+                "weight": 0.03,
+                "length": 0.042,
+                "height": 0.038,
+                "width": 0.033,
+                "attributes": {
+                  "barcodes": {
+                    "barcode": {
+                      "__cdata": "7014187971293"
+                    }
+                  },
+                  "supplier-code": {
+                    "__cdata": "7014187971293"
+                  }
+                },
+                "prices": {
+                  "base-price": {
+                    "value": 7.58,
+                    "currency": "EUR"
+                  }
+                },
+                "quantity": 27
+              }
+            }
+          }
+        }
+      },
+      {
+        "name": "catalog-item.xml",
+        "NAME_1": "catalog-item.xml",
+        "NAME_2": "catalog-item.xml",
+        "NAME_3": "catalog-item.xml",
+        "NAME_4": "catalog-item.xml",
+        "NAME_5": "catalog-item.xml",
+        "NAME_6": "catalog-item.xml",
+        "category-id": 20888,
+        "category-name": {
+          "__cdata": "Apsaugos sistemos, valdikliai"
+        },
+        "title": {
+          "__cdata": "Judesio daviklis Sonoff PIR3-RF"
+        },
+        "title-en": {
+          "__cdata": "Motion sensor Sonoff PIR3-RF"
+        },
+        "long-description": {
+          "__cdata": "<p>Judesio daviklis Sonoff PIR3-RF</p>"
+        },
+        "long-description-en": {
+          "__cdata": "<p>Motion sensor&nbsp;Sonoff PIR3-RF&nbsp;</p>"
+        },
+        "properties": {
+          "property": {
+            "id": {
+              "__cdata": "manufacturer"
+            },
+            "values": {
+              "value": {
+                "__cdata": "SONOFF"
+              }
+            }
+          }
+        },
+        "cn_code": {
+          "__cdata": "85363010"
+        },
+        "country_of_origin": {
+          "__cdata": "China"
+        },
+        "colours": {
+          "colour": {
+            "colour-title": {
+              "__cdata": ""
+            },
+            "images": {
+              "image": [
+                {
+                  "url": "https://www.sonoff.ee/wp-content/uploads/2022/05/PIR3-RF.jpeg"
+                }
+              ]
+            },
+            "modifications": {
+              "modification": {
+                "modification-title": {
+                  "__cdata": ""
+                },
+                "weight": 0.03,
+                "length": 0.042,
+                "height": 0.038,
+                "width": 0.033,
+                "attributes": {
+                  "barcodes": {
+                    "barcode": {
+                      "__cdata": "8014934012997"
+                    }
+                  },
+                  "supplier-code": {
+                    "__cdata": "8014934012997"
+                  }
+                },
+                "prices": {
+                  "base-price": {
+                    "value": 7.58,
+                    "currency": "EUR"
+                  }
+                },
+                "quantity": 27
+              }
+            }
+          }
+        }
+      }
+    ]
+  }
+}
